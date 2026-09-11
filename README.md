@@ -4,7 +4,7 @@ A jump, run & throw game made purely in JavaScript. Help Pepe collect coins and 
 
 ![El Pollo Loco](img/elpolloloco.png)
 
-## ⌨️ Technologies
+## ⌨️ Tech Stack
 
 - `JavaScript` (object-oriented)
 - `HTML`
@@ -19,7 +19,11 @@ A jump, run & throw game made purely in JavaScript. Help Pepe collect coins and 
 - Dynamically generated levels
 - Background music and sound effects
 
-## 🚦 Running the Project
+## 🎞️ Live Demo
+
+[el-pollo-loco-pi.vercel.app](https://el-pollo-loco-pi.vercel.app/)
+
+## 🚦 Getting Started
 
 This is a static JavaScript project with no build step required.
 
@@ -36,7 +40,3 @@ This is a static JavaScript project with no build step required.
 - `levels/` – level configuration
 - `fonts/` – custom fonts
 - `style.css` – global styles
-
-## 🎞️ Live Demo
-
-[el-pollo-loco-pi.vercel.app](https://el-pollo-loco-pi.vercel.app/)
